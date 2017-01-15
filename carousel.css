@@ -5,6 +5,10 @@
   margin-top: 30px;
 }
 
+h5 {
+  color: gray;
+}
+
 /* Control buttons  */
 #quote-carousel .carousel-control
 {
