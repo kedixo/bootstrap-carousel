@@ -27,6 +27,15 @@ h3 {
   color: LightSlateGray;
 }
 
+h5 {
+  color: LightSlateGray;
+}
+
+b {
+  color: LightSlateGray;
+}
+
+
 /* Control buttons  */
 #quote-carousel .carousel-control
 {
