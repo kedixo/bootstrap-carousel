@@ -5,6 +5,10 @@
   margin-top: 5px;
 }
 
+img {
+  margin-top: 20px;
+}
+
 .navbar-header {
     float: left;
     padding: 15px;
