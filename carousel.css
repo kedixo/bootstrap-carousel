@@ -37,7 +37,7 @@ b {
   color: #222;
   font-size: 2.3em;
   text-shadow: none;
-  margin-top: 60px;
+  margin-top: 80px;
   width: 5%;
 }
 
@@ -61,7 +61,8 @@ b {
 #quote-carousel img
 {
   width: 250px;
-  height: 250px
+  height: 250px;
+    padding: 15px;
 }
 /* End carousel */
 
@@ -113,7 +114,7 @@ b {
     }
     #quote-carousel .carousel-indicators li.active {
         margin: 0px 5px;
-        width: 20px;
+
         height: 20px;
     }
 }
