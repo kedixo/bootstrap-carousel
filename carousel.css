@@ -42,7 +42,7 @@ b {
 /* Previous button  */
 #quote-carousel .carousel-control.left 
 {
-
+  left: -12px;
 }
 /* Next button  */
 #quote-carousel .carousel-control.right 
@@ -55,7 +55,7 @@ b {
   right: 50%;
   top: auto;
   bottom: 0px;
-  margin-right: -19px;
+
 }
 /* Changes the color of the indicators */
 #quote-carousel .carousel-indicators li 
