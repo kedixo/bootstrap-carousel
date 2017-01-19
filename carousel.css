@@ -7,6 +7,7 @@
 
 img {
   margin-top: 10px;
+     border:1px solid #021a40;
 }
 
 .navbar-header {
@@ -15,13 +16,11 @@ img {
     text-align: center;
     width: 100%;
 }
+
 .navbar-brand {
   float:none;
 }
 
-img { 
-   border:1px solid #021a40;
-}
 
 
 h3 {
@@ -65,11 +64,7 @@ b {
 {
   background: #333333;
 }
-#quote-carousel img
-{
-  width: 250px;
-  height: 250px;
-}
+
 /* End carousel */
 
 .item blockquote {
