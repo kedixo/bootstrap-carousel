@@ -6,7 +6,7 @@
 }
 
 .lead {
-	color: DarkSlateGray;
+	font-weight: 300;
 }
 
 .navbar-header {
@@ -24,17 +24,19 @@ h3 {
 	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 	font-size: 40px;
 	line-height: 55px;
+	font-weight: 500;
 }
  
 p {
 	font-family: 'Vollkorn', Georgia, Times, serif;
 	font-size: 18px;
 	line-height: 25px;
+	font-weight: 250;
 }
 
 
 b {
-  color: DarkSlateGray;
+  font-weight: 500;
 }
 
 
