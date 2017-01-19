@@ -5,7 +5,9 @@
   margin-top: 5px;
 }
 
-
+.lead {
+	color: DarkOliveGreen;
+}
 
 .navbar-header {
     float: left;
