@@ -6,7 +6,7 @@
 }
 
 .lead {
-	color: DarkSlateBlue;
+	color: LightSlateGray;
 }
 
 .navbar-header {
@@ -24,6 +24,7 @@ h3 {
 	font-family: 'Ubuntu', Helvetica, Arial, sans-serif;
 	font-size: 40px;
 	line-height: 55px;
+	color: DarkSlateGray
 }
  
 p {
