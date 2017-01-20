@@ -5,6 +5,10 @@
   margin-top: 5px;
 }
 
+body {
+	-webkit-font-smoothing: antialiased;
+}
+
 .lead {
 	font-weight: 300;
 }
